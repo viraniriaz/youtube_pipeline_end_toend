@@ -30,6 +30,10 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 ## Architecture Diagram
 <img src="architecture.jpeg">
 
+## QuickSight Dashboard
+<img src="dashboard.png">
+
+
 
 
 
